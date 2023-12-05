@@ -1,15 +1,15 @@
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
     
   ]
   /**
